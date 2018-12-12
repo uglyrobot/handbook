@@ -43,6 +43,7 @@ In alphabetical order:
 * [TitanHost](https://titanhost.io/)
 * [TVC.Net](http://TVC.Net/)
 * [WPEngine.com](http://wpengine.com)
+* [WPMU DEV](https://premium.wpmudev.org/hosting/)
 * [XEL](https://xel.nl)
 * [Zenbox](https://zenbox.pl)
 
